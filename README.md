@@ -55,10 +55,9 @@ This website is based on technologies like below:
 * HTML5
 * CSS3
 * JavaScript
+* Sass
 * Bootstrap
 * jQuery
-* Font Awesome
-* Google Font API
 
 
 <!-- GETTING STARTED -->
@@ -78,7 +77,7 @@ In order to open this website is required to have an IDE or Code Editor (Visual 
    ```terminal
    git clone https://github.com/ndriqimlahu/WorldTravel.git
    ```
-2. Open the repo folder with an IDE or Code Editor.
+2. Open the repo folder with your IDE or Code Editor.
 3. Launch the website with your Browser by clicking in the `index.html` file.
 4. Also you can open the other pages which are with extension `.html` file.
 
