@@ -69,7 +69,7 @@ By getting started with the project, first you need to take a look at the requir
 
 ### Prerequisites
 
-In order to open this website is required to have an Browser (Google Chrome).
+In order to open this website is required to have an IDE or Code Editor (Visual Studio Code) and an Browser (Google Chrome).
 
 
 ### Installation
@@ -78,8 +78,9 @@ In order to open this website is required to have an Browser (Google Chrome).
    ```terminal
    git clone https://github.com/ndriqimlahu/WorldTravel.git
    ```
-2. Open the repo folder and launch the website with your Browser by clicking in the `index.html` file.
-3. Also you can open the other pages which are with extension `.html` file.
+2. Open the repo folder with an IDE or Code Editor.
+3. Launch the website with your Browser by clicking in the `index.html` file.
+4. Also you can open the other pages which are with extension `.html` file.
 
 
 <!-- USAGE -->
