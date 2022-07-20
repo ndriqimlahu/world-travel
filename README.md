@@ -1,16 +1,16 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img src="https://github.com/ndriqimlahu/NdriqimLahuPortfolio/blob/main/assets/portfolio/WorldTravel.png" alt="Logo" width="250" height="250">
+  <img src="https://github.com/ndriqimlahu/ndriqim-lahu-portfolio/blob/main/assets/portfolio/WorldTravel.png" alt="Logo" width="250" height="250">
   <h3 align="center">World Travel</h3>
   <p align="center">
     Ndriçim Lahu
     <br>
     <br>
-    <a href="https://ndriqimlahu.github.io/WorldTravel/">View Website</a>
+    <a href="https://ndriqimlahu.github.io/world-travel/">View Website</a>
     ·
-    <a href="https://github.com/ndriqimlahu/WorldTravel/issues">Report Bug</a>
+    <a href="https://github.com/ndriqimlahu/world-travel/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ndriqimlahu/WorldTravel/issues">Request Feature</a>
+    <a href="https://github.com/ndriqimlahu/world-travel/issues">Request Feature</a>
   </p>
 </p>
 
@@ -75,7 +75,7 @@ In order to open this website is required to have an IDE or Code Editor (Visual 
 
 1. Download the code or Clone the repo:
    ```terminal
-   git clone https://github.com/ndriqimlahu/WorldTravel.git
+   git clone https://github.com/ndriqimlahu/world-travel.git
    ```
 2. Open the repo folder with your IDE or Code Editor.
 3. Launch the website with your Browser by clicking in the `index.html` file.
@@ -94,14 +94,6 @@ There you can see some useful additional screenshots of how the project looks li
 ## License
 
 Distributed under the Apache License 2.0. See `LICENSE` for more information.
-
-
-<!-- CONTACT -->
-## Contact
-
-**LinkedIn:** https://www.linkedin.com/in/ndriçimlahu
-
-**Mail:** ndriqim_lahu@hotmail.com
 
 
 <!-- SUPPORT -->
