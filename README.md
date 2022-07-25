@@ -86,18 +86,41 @@ In order to open this website is required to have an IDE or Code Editor (Visual 
 
 There you can see some useful additional screenshots of how the project looks like and how can be used.
 
-<img src="https://github.com/ndriqimlahu/world-travel/blob/main/preview/01.1-Home%20page%20(Welcome).png">
-<img src="https://github.com/ndriqimlahu/world-travel/blob/main/preview/01.2-Home%20page%20(Offers%20and%20Customers).png">
-<img src="https://github.com/ndriqimlahu/world-travel/blob/main/preview/02.1-Our%20Offer%20page%20(Latest%20Offers).png">
-<img src="https://github.com/ndriqimlahu/world-travel/blob/main/preview/02.2-Our%20Offer%20page%20(All%20Offers).png">
-<img src="https://github.com/ndriqimlahu/world-travel/blob/main/preview/02.3-Our%20Offer%20page%20(Europe%20Offers).png">
-<img src="https://github.com/ndriqimlahu/world-travel/blob/main/preview/02.4-Our%20Offer%20page%20(America%20Offers).png">
-<img src="https://github.com/ndriqimlahu/world-travel/blob/main/preview/02.5-Our%20Offer%20page%20(Asia%20Offers).png">
-<img src="https://github.com/ndriqimlahu/world-travel/blob/main/preview/03.1-About%20Us%20page%20(Our%20History%20and%20Principle).png">
-<img src="https://github.com/ndriqimlahu/world-travel/blob/main/preview/03.2-About%20Us%20page%20(Our%20Team).png">
-<img src="https://github.com/ndriqimlahu/world-travel/blob/main/preview/03.3-About%20Us%20page%20(Best%20Travels).png">
-<img src="https://github.com/ndriqimlahu/world-travel/blob/main/preview/04-Customer%20Protection%20page%20(Safety).png">
-<img src="https://github.com/ndriqimlahu/world-travel/blob/main/preview/05-Contact%20page%20(Contact%20the%20Agency).png">
+* Home page (Welcome)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/01.1-Home%20page%20(Welcome).png">
+
+* Home page (Offers and Customers)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/01.2-Home%20page%20(Offers%20and%20Customers).png">
+
+* Our Offer page (Latest Offers)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/02.1-Our%20Offer%20page%20(Latest%20Offers).png">
+
+* Our Offer page (All Offers)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/02.2-Our%20Offer%20page%20(All%20Offers).png">
+
+* Our Offer page (Europe Offers)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/02.3-Our%20Offer%20page%20(Europe%20Offers).png">
+
+* Our Offer page (America Offers)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/02.4-Our%20Offer%20page%20(America%20Offers).png">
+
+* Our Offer page (Asia Offers)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/02.5-Our%20Offer%20page%20(Asia%20Offers).png">
+
+* About Us page (Our History and Principle)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/03.1-About%20Us%20page%20(Our%20History%20and%20Principle).png">
+
+* About Us page (Our Team)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/03.2-About%20Us%20page%20(Our%20Team).png">
+
+* About Us page (Best Travels)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/03.3-About%20Us%20page%20(Best%20Travels).png">
+
+* Customer Protection page (Safety)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/04-Customer%20Protection%20page%20(Safety).png">
+
+* Contact page (Contact the Agency)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/05-Contact%20page%20(Contact%20the%20Agency).png">
 
 
 <!-- COPYRIGHT -->
