@@ -1,24 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<!-- Meta Data -->
-		<meta charset="UTF-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1">
-		<meta name="title" content="World Travel" />
-		<meta name="author" content="Ndriçim Lahu" />
+		<!-- Primary Meta Tags -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="title" content="World Travel - Our Offer page" />
+    <meta name="description" content="World Travel is an vacation
+		or travel agency which has great offers for traveling and more,
+    also the apply and opening of tickets are easy in any time." />
+    <meta name="author" content="Ndriçim Lahu" />
+
+		<!-- Open Graph / Facebook -->
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="https://ndriqimlahu.github.io/world-travel/our-offer.html">
+		<meta property="og:title" content="World Travel - Our Offer page">
+		<meta property="og:description" content="World Travel is an vacation
+		or travel agency which has great offers for traveling and more,
+    also the apply and opening of tickets are easy in any time.">
+		<meta property="og:image" content="https://ndriqimlahu.github.io/world-travel/assets/images/slide-1.jpg">
+
+		<!-- Twitter -->
+		<meta property="twitter:card" content="summary_large_image">
+		<meta property="twitter:url" content="https://ndriqimlahu.github.io/world-travel/our-offer.html">
+		<meta property="twitter:title" content="World Travel - Our Offer page">
+		<meta property="twitter:description" content="World Travel is an vacation
+		or travel agency which has great offers for traveling and more,
+    also the apply and opening of tickets are easy in any time.">
+		<meta property="twitter:image" content="https://ndriqimlahu.github.io/world-travel/assets/images/slide-1.jpg">
 		
 		<title>World Travel | Our Offer</title>
 
 		<!-- Favicons -->
-		<link
-		href="./assets/favicon/android-chrome-192x192.png"
-		rel="android-chrome-icon"
-		/>
-		<link
-		href="./assets/favicon/android-chrome-512x512.png"
-		rel="android-chrome-icon"
-		/>
+		<link href="./assets/favicon/android-chrome-192x192.png" rel="android-chrome-icon" />
+		<link href="./assets/favicon/android-chrome-512x512.png" rel="android-chrome-icon" />
 		<link href="./assets/favicon/apple-touch-icon.png" rel="apple-touch-icon" />
 		<link href="./assets/favicon/favicon-16x16.png" rel="icon" />
 		<link href="./assets/favicon/favicon-32x32.png" rel="icon" />
@@ -28,15 +43,16 @@
 		<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,600,700" rel="stylesheet" type="text/css">
 		<link href="./fonts/font-awesome.min.css" rel="stylesheet" type="text/css">
 
-		<!-- CSS -->
-		<link rel="stylesheet" href="./css/animate.min.css">
+		<!-- Custom CSS -->
 		<link rel="stylesheet" href="./css/style.css">
+
+		<!-- Core CSS -->
+		<link rel="stylesheet" href="./css/animate.min.css">
 		
 		<!--[if lt IE 9]>
 		<script src="./js/ie-support/html5.js"></script>
 		<script src="./js/ie-support/respond.js"></script>
 		<![endif]-->
-
 	</head>
 
 	<body>
@@ -66,7 +82,7 @@
 						<div class="social-links">
 							<a href="https://www.facebook.com" class="facebook"><i class="fa fa-facebook"></i></a>
 							<a href="https://www.instagram.com" class="instagram"><i class="fa fa-instagram"></i></a>
-							<a href="https://twitter.com" class="twitter"><i class="fa fa-twitter"></i></a>
+							<a href="https://www.twitter.com" class="twitter"><i class="fa fa-twitter"></i></a>
 							<a href="https://www.pinterest.com" class="pinterest"><i class="fa fa-pinterest"></i></a>
 						</div>
 					</div>
@@ -88,9 +104,9 @@
 								<option value=".asia">Asia</option>
 							</select>
 							<a href="#" class=" current wow fadeInRight" data-filter="*">Show all</a>
-							<a href="#" class="wow fadeInRight" data-wow-delay="1s" data-filter=".europe">Europe</a>
+							<a href="#" class="wow fadeInRight" data-wow-delay=".1s" data-filter=".europe">Europe</a>
 							<a href="#" class="wow fadeInRight" data-wow-delay=".2s" data-filter=".america">America</a>
-							<a href="#" class="wow fadeInRight" data-wow-delay=".4s" data-filter=".asia">Asia</a>
+							<a href="#" class="wow fadeInRight" data-wow-delay=".3s" data-filter=".asia">Asia</a>
 						</div>
 						<div class="filterable-items">
 							<div class="filterable-item europe">
@@ -297,18 +313,26 @@
 				<div class="colophon">
 					<div class="container">
 						<p class="copy" style="text-align:center;">
-							Copyright &copy; World Travel 2022. All rights reserved.
+							&copy; <strong>World Travel</strong>
+							<span id="copyright-year" onload="copyrightYear()"></span>. All Rights Reserved.
 							<br>
-							Powered by <a href="#">Ndriçim Lahu</a>
+							Powered by <a href="https://ndriqimlahu.ml"><strong>Ndriçim Lahu</strong></a>
 						</p>
 					</div>
 				</div>
 			</footer> <!-- .site-footer -->
 
 		</div> <!-- #site-content -->
+
+		<!-- Custom JS -->
+		<script src="./js/script.js"></script>
+		
+		<!-- jQuery -->
 		<script src="./js/jquery-1.11.1.min.js"></script>
-		<script src="./js/min/plugins-min.js"></script>
+
+		<!-- Plugin JS -->
 		<script src="./js/min/app-min.js"></script>
+		<script src="./js/min/plugins-min.js"></script>
 		
 	</body>
 
