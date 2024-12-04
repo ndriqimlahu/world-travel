@@ -1,139 +1,90 @@
-<!-- PROJECT LOGO -->
-<p align="center">
-  <img src="https://github.com/ndriqimlahu/ndriqim-lahu-portfolio/blob/main/assets/portfolio/WorldTravel.png" alt="Logo" width="250" height="250">
-  <h3 align="center">World Travel</h3>
-  <p align="center">
-    Ndriçim Lahu
-    <br>
-    <br>
-    <a href="https://ndriqimlahu.github.io/world-travel/">View Website</a>
-    ·
-    <a href="https://github.com/ndriqimlahu/world-travel/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/ndriqimlahu/world-travel/issues">Request Feature</a>
-  </p>
-</p>
+# World Travel
 
+**World Travel** is a website designed to be the ultimate guide for discovering and booking unforgettable vacations around the globe. Offering a wide range of travel options, from budget-friendly trips to luxurious all-inclusive packages, it ensures there is something for every traveler. The platform not only provides top travel deals but also delivers essential information about chosen destinations, ensuring travelers are well-prepared for their journeys.
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#support">Support</a></li>
-  </ol>
-</details>
+This project offers a comprehensive service for those seeking great travel deals, detailed destination insights, social connections, customer feedback, and outstanding public relations. Whether planning a relaxing beach holiday, an adventurous mountain retreat, or an exploration of vibrant cities, this travel agency is dedicated to turning dream vacations into reality. Safety remains a top priority, and by collaborating with trusted partners, it ensures a secure and smooth experience from booking to returning home.
 
+## Built With
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+This website was developed using the following technologies and resources:
+- **HTML**
+- **CSS**
+- **Sass**
+- **Bootstrap**
+- **JavaScript**
+- **jQuery**
+- **Themezy Travel Agency** — [Reference link](https://www.themezy.com/free-website-templates/26-travel-agency-responsive-template)
 
-The project called `World Travel` is an website which is based on vacation agency where the mission of World Travel is to make it easier for everyone to experience the world. In this website you can navigate into different pages which are “Home”, “Our Offers”, “About Us”, “Customer Protection” and “Contact”.
+## Features
 
-This project started from scratch where I worked and completed, also I made many improvements in the front-end side of Web Development, such as the designing and developing the entire platform, creating a slideshow for images, adding the testimonials, adding some popular places to travel with great offers, adding transcitions and animations, adding the map, creating the contact form, adding some features for the user side and many more things.
+✅ **Exclusive Offers:** Provides access to exclusive travel deals, discounts, and promotions, catering to diverse preferences and budgets.
 
+✅ **Agency Experience:** Provides detailed insights into the agency's history, mission, team, principles, and commitment to delivering unforgettable travel experiences.
 
-### Built With
+✅ **Travel Information:** Offers comprehensive details about destinations, including attractions, accommodations, local culture, and travel tips to ensure a well-informed journey.
 
-This website is based on technologies like below:
+✅ **Secure Travel:** Prioritizes traveler safety by collaborating with trusted partners and maintaining secure booking processes for a stress-free experience.
 
-* HTML5
-* CSS3
-* Sass
-* Bootstrap
-* JavaScript
-* jQuery
+✅ **Customer Support:** Ensures 24/7 assistance for inquiries, bookings, and troubleshooting to guarantee a smooth travel planning process.
 
+✅ **Contact Details:** Provides clear and accessible contact information, including the agency's physical location, social media links, and other ways to connect for assistance.
 
-<!-- GETTING STARTED -->
-## Getting Started
+✅ **Responsive Design:** Delivers a user-friendly experience across all devices, ensuring seamless navigation on desktops, tablets, and smartphones.
 
-By getting started with the project, first you need to take a look at the required `Prerequisites` and after that the `Installation` steps.
+## Installation
 
-
-### Prerequisites
-
-In order to open this website is required to have an IDE or Code Editor (Visual Studio Code) and an Browser (Google Chrome).
-
-
-### Installation
-
-1. Download the code or Clone the repo:
-   ```terminal
+1. Clone or download the repository to your local machine:
+   ```
    git clone https://github.com/ndriqimlahu/world-travel.git
    ```
-2. Open the repo folder with your IDE or Code Editor.
-3. Launch the website with your Browser by clicking in the `index.html` file.
-4. Also you can open the other pages which are with extension `.html` file.
+2. Navigate to the repository folder on your local machine.
+3. Open the `index.html` file in any modern web browser to view the website locally.
 
+## Screenshots
 
-<!-- USAGE -->
-## Usage
+Below you can see some additional useful screenshots of what the website looks like and how it can be used:
 
-There you can see some useful additional screenshots of how the project looks like and how can be used.
+- Home page | Home page — Offers and customers
+<div>
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/01.1-Home%20page%20(Welcome).png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/01.2-Home%20page%20(Offers%20and%20Customers).png" align="top" width="48%" height="auto">
+   <hr>
+</div>
 
-* Home page (Welcome)
-<img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/01.1-Home%20page%20(Welcome).png">
+- Our Offer page — Latest offers | Our Offer page — All listed offers
+<div>
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/02.1-Our%20Offer%20page%20(Latest%20Offers).png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/02.2-Our%20Offer%20page%20(All%20Offers).png" align="top" width="48%" height="auto">
+   <hr>
+</div>
 
-* Home page (Offers and Customers)
-<img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/01.2-Home%20page%20(Offers%20and%20Customers).png">
+- Our Offer page — Offers for European countries | Our Offer page — Offers for American countries
+<div>
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/02.3-Our%20Offer%20page%20(Europe%20Offers).png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/02.4-Our%20Offer%20page%20(America%20Offers).png" align="top" width="48%" height="auto">
+   <hr>
+</div>
 
-* Our Offer page (Latest Offers)
-<img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/02.1-Our%20Offer%20page%20(Latest%20Offers).png">
+- Our Offer page — Offers for Asian countries | About Us page — History and principles
+<div>
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/02.5-Our%20Offer%20page%20(Asia%20Offers).png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/03.1-About%20Us%20page%20(Our%20History%20and%20Principle).png" align="top" width="48%" height="auto">
+   <hr>
+</div>
 
-* Our Offer page (All Offers)
-<img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/02.2-Our%20Offer%20page%20(All%20Offers).png">
+- About Us page — Team members | About Us page — Best travels and public relations
+<div>
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/03.2-About%20Us%20page%20(Our%20Team).png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/03.3-About%20Us%20page%20(Best%20Travels).png" align="top" width="48%" height="auto">
+   <hr>
+</div>
 
-* Our Offer page (Europe Offers)
-<img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/02.3-Our%20Offer%20page%20(Europe%20Offers).png">
+- Customer Protection page — Safety during travel | Contact page — Agency contact details
+<div>
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/04-Customer%20Protection%20page%20(Safety).png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/05-Contact%20page%20(Contact%20the%20Agency).png" align="top" width="48%" height="auto">
+</div>
 
-* Our Offer page (America Offers)
-<img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/02.4-Our%20Offer%20page%20(America%20Offers).png">
-
-* Our Offer page (Asia Offers)
-<img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/02.5-Our%20Offer%20page%20(Asia%20Offers).png">
-
-* About Us page (Our History and Principle)
-<img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/03.1-About%20Us%20page%20(Our%20History%20and%20Principle).png">
-
-* About Us page (Our Team)
-<img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/03.2-About%20Us%20page%20(Our%20Team).png">
-
-* About Us page (Best Travels)
-<img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/03.3-About%20Us%20page%20(Best%20Travels).png">
-
-* Customer Protection page (Safety)
-<img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/04-Customer%20Protection%20page%20(Safety).png">
-
-* Contact page (Contact the Agency)
-<img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/05-Contact%20page%20(Contact%20the%20Agency).png">
-
-
-<!-- LICENSE -->
-## License
-
-See the `LICENSE` file for more information.
-
-
-<!-- SUPPORT -->
 ## Support
 
-Issues and feature requests are welcome!
-
-Give a ⭐️ if you liked this project!
-
-Support the author on <a href="https://www.buymeacoffee.com/ndriqimlahu">Buy Me a Coffee</a>
+If you find this project useful, please consider giving it a star!
